@@ -22,5 +22,4 @@ Run the JAR File:
 
 Use the following command to run the JAR file:
 
-java -jar yourfile.jar
-Replace yourfile.jar with the name of your JAR file.
+java -jar CricketGamev1.jar
